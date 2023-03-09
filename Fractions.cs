@@ -10,7 +10,7 @@ namespace infinitePractice
 	public static class FractionCustomClass
 	{
 		public static int displayCount = 0;
-		public static int questionCount = 10;
+		public static int questionCount = 7;
 		public static void FractionQuestions()
 		{
 			int usrInp;

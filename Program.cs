@@ -25,16 +25,22 @@ int usrInp;
 string trainingChoices()
 {
 	Console.Clear();
-	Console.WriteLine("The Tool Set:\n" +
+	Console.WriteLine("-- The Basic Tool Set Required For Pre-Algreba: --\n" +
 	" 1) Subtraction YFC:(Yoink 10's, flip/carry)\n" +
 	" 2) Make 100 (9/10 rule)\n" +
-	" 3) Devision\n" +
+	" 3) Devision (2 Decimals out)\n" +
 	" 4) Adding Fractions (LCM, then add)\n" +
 	" 5) Square Roots\n" +
 	" *** Key Laws ***\n" +
 	" 6) Alebriac Axoims, Exponent Rules\n" +
 	" 7) Trig Identities\n" +
-	" 8) Imaginary Numbers"
+	" 8) Imaginary Numbers\n" +
+	" *** Notes ***\n" +
+	" It is unreasonable to ask anyone to preform\n" +
+	" long devision unless they have a mastery of:\n" +
+	" 9) Multiplication\n" +
+	" 1) Subtraction YFC:(Yoink 10's, flip/carry)\n" +
+	" 10) Estimations"
 	); 
 	
 	usrInp = Convert.ToInt32(Console.ReadLine());

@@ -9,7 +9,7 @@ namespace infinitePractice
 	public static class Devision
 	{
 		public static int displayCount = 0;
-		public static int questionCount = 20;
+		public static int questionCount = 7;
 		public static void DevisionQuestions()
 		{
 			int usrInp;
