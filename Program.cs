@@ -40,7 +40,7 @@ string trainingChoices()
 	" long devision unless they have a mastery of:\n" +
 	" 9) Multiplication\n" +
 	" 1) Subtraction YFC:(Yoink 10's, flip/carry)\n" +
-	" 10) Estimations"
+	" 10) Prime Numbers"
 	); 
 	
 	usrInp = Convert.ToInt32(Console.ReadLine());
@@ -73,6 +73,22 @@ string trainingChoices()
 			break;
 		case 6: 
 			AlgebriacAxioms.AlgebriacAxiomQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 7:
+			TrigIdentities.TrigIdentityQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 8:
+			ImaginaryNumbers.ImaginaryNumberQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 9:
+			Multiplication.MultiplicationQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 10:
+			PrimeNumbers.PrimeNumberQuestions();
 			Console.WriteLine("Finished");
 			break;
 
