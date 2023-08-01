@@ -40,7 +40,8 @@ string trainingChoices()
 	" long devision unless they have a mastery of:\n" +
 	" 9) Multiplication\n" +
 	" 1) Subtraction YFC:(Yoink 10's, flip/carry)\n" +
-	" 10) Prime Numbers"
+	" 10) Prime Numbers\n" +
+    " 11) Addition"
 	); 
 	
 	usrInp = Convert.ToInt32(Console.ReadLine());
@@ -89,6 +90,10 @@ string trainingChoices()
 			break;
 		case 10:
 			PrimeNumbers.PrimeNumberQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 11:
+			Addition.AdditionQuestions();
 			Console.WriteLine("Finished");
 			break;
 
