@@ -41,7 +41,9 @@ string trainingChoices()
 	" 1) Subtraction YFC:(Yoink 10's, flip/carry)\n" +
 	" 10) Prime Numbers\n" +
     " 11) Addition (50 questions)\n" +
-	" 12) Subtraction (50 questions)"
+	" 12) Subtraction (50 questions)\n" +
+	" 13) Add Or Subtract (Single Dig X 50)\n" +
+	" 14) Make 10 (complements)"
 	); 
 	
 	usrInp = Convert.ToInt32(Console.ReadLine());
@@ -100,6 +102,15 @@ string trainingChoices()
 			Subtraction50.SubtractionQuestions();
 			Console.WriteLine("Finished");
 			break;
+		case 13:
+			AdditionSubtraction.AdditionSubtractionQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 14:
+			Make10.Make10Questions();
+			Console.WriteLine("Finished");
+			break;
+			
 
 
 	}	
