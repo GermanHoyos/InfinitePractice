@@ -21,7 +21,6 @@
 //program start:
 int usrInp;
 
-
 string trainingChoices()
 {
 	Console.Clear();
@@ -41,7 +40,8 @@ string trainingChoices()
 	" 9) Multiplication\n" +
 	" 1) Subtraction YFC:(Yoink 10's, flip/carry)\n" +
 	" 10) Prime Numbers\n" +
-    " 11) Addition"
+    " 11) Addition (50 questions)\n" +
+	" 12) Subtraction (50 questions)"
 	); 
 	
 	usrInp = Convert.ToInt32(Console.ReadLine());
@@ -94,6 +94,10 @@ string trainingChoices()
 			break;
 		case 11:
 			Addition.AdditionQuestions();
+			Console.WriteLine("Finished");
+			break;
+		case 12:
+			Subtraction50.SubtractionQuestions();
 			Console.WriteLine("Finished");
 			break;
 
