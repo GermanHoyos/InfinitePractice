@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|c:\\users\\hoyos\\onedrive\\desktop\\math csharp proj\\infinitepractice\\exponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|solutionrelative:exponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|c:\\users\\hoyos\\onedrive\\desktop\\math csharp proj\\infinitepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|c:\\users\\hoyos\\onedrive\\desktop\\math csharp proj\\infinitepractice\\algebriacaxioms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|solutionrelative:algebriacaxioms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|c:\\users\\hoyos\\onedrive\\desktop\\math csharp proj\\infinitepractice\\decimaldivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906CEAF6-F730-40EA-9D33-A92684B698C6}|infinitePractice.csproj|solutionrelative:decimaldivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:17:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlgebriacAxioms.cs",
+              "DocumentMoniker": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\AlgebriacAxioms.cs",
+              "RelativeDocumentMoniker": "AlgebriacAxioms.cs",
+              "ToolTip": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\AlgebriacAxioms.cs",
+              "RelativeToolTip": "AlgebriacAxioms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:16:53.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exponents.cs",
+              "DocumentMoniker": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\Exponents.cs",
+              "RelativeDocumentMoniker": "Exponents.cs",
+              "ToolTip": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\Exponents.cs",
+              "RelativeToolTip": "Exponents.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:53:32.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecimalDivision.cs",
+              "DocumentMoniker": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\DecimalDivision.cs",
+              "RelativeDocumentMoniker": "DecimalDivision.cs",
+              "ToolTip": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\DecimalDivision.cs",
+              "RelativeToolTip": "DecimalDivision.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:47:48.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

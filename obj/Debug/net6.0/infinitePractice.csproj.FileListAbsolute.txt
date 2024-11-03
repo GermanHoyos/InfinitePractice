@@ -32,3 +32,43 @@ C:\Users\Hoyos\Desktop\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\
 C:\Users\Hoyos\Desktop\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\Fractions.dll
 C:\Users\Hoyos\Desktop\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Users\Hoyos\Desktop\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.csproj.CopyComplete
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\infinitePractice.exe
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\infinitePractice.deps.json
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\infinitePractice.runtimeconfig.json
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\infinitePractice.dll
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\infinitePractice.pdb
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\Fractions.dll
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.csproj.AssemblyReference.cache
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.AssemblyInfoInputs.cache
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.AssemblyInfo.cs
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.csproj.CoreCompileInputs.cache
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.sourcelink.json
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinite.F9968410.Up2Date
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.dll
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\refint\infinitePractice.dll
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.pdb
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\infinitePractice.genruntimeconfig.cache
+D:\m_c_t\A_SELF_Infinite_Planner\infinitePractice\obj\Debug\net6.0\ref\infinitePractice.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\infinitePractice.exe
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\infinitePractice.deps.json
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\infinitePractice.runtimeconfig.json
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\infinitePractice.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\infinitePractice.pdb
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\Fractions.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.csproj.AssemblyReference.cache
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.AssemblyInfoInputs.cache
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.AssemblyInfo.cs
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.csproj.CoreCompileInputs.cache
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.sourcelink.json
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinite.F9968410.Up2Date
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\refint\infinitePractice.dll
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.pdb
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\infinitePractice.genruntimeconfig.cache
+C:\Users\Hoyos\OneDrive\Desktop\Math CSharp Proj\infinitePractice\obj\Debug\net6.0\ref\infinitePractice.dll

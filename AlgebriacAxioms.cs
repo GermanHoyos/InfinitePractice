@@ -11,29 +11,29 @@ namespace infinitePractice
         public static int displayCount = 0;
         public static int questionCount = 22;
 
-        public static string question_1 = "a+(b+c) = "; public static string q1_answer = "(a+b)+c";
-        public static string question_2 = "a+b = "; public static string q2_answer = "b+a";
-        public static string question_3 = "a*(b*c) = "; public static string q3_answer = "(a*b)*c";
-        public static string question_4 = "a*(b+c) = "; public static string q4_answer = "(a*b)+(a*c)";
-        public static string question_5 = "a*1/a = "; public static string q5_answer = "1";
-        public static string question_6 = "a^m*a^n = "; public static string q6_answer = "a^m+n";
-        public static string question_7 = "(a^m)^n = "; public static string q7_answer = "a^m*n";
-        public static string question_8 = "(ab)^n = "; public static string q8_answer = "a^n*b^n";
-        public static string question_9 = "(a/b)^n = "; public static string q9_answer = "a^n/b^n";
+        public static string question_1 = "a+(b+c) = ";             public static string q1_answer = "(a+b)+c";
+        public static string question_2 = "a+b = ";                 public static string q2_answer = "b+a";
+        public static string question_3 = "a*(b*c) = ";             public static string q3_answer = "(a*b)*c";
+        public static string question_4 = "a*(b+c) = ";             public static string q4_answer = "(a*b)+(a*c)";
+        public static string question_5 = "a*1/a = ";               public static string q5_answer = "1";
+        public static string question_6 = "a^m*a^n = ";             public static string q6_answer = "a^m+n";
+        public static string question_7 = "(a^m)^n = ";             public static string q7_answer = "a^m*n";
+        public static string question_8 = "(ab)^n = ";              public static string q8_answer = "a^n*b^n";
+        public static string question_9 = "(a/b)^n = ";             public static string q9_answer = "a^n/b^n";
         public static string question_10 = "Version 1: a^m/a^n = "; public static string q10_answer = "a^m-n";
-        public static string question_11 = "Version 2: a^m/a^n = "; public static string q11_answer = "1/a^n-m";
+        public static string question_11 = "Version 2: a^m/a^n = "; public static string q11_answer = "1/a^m-n";
 
         // Inverse questions
-        public static string question_12 = "(a+b)+c = "; public static string q12_answer = "a+(b+c)";
-        public static string question_13 = "b+a = "; public static string q13_answer = "a+b";
-        public static string question_14 = "(a*b)*c = "; public static string q14_answer = "a*(b*c)";
-        public static string question_15 = "(a*b)+(a*c) = "; public static string q15_answer = "a*(b+c)";
-        public static string question_16 = "1 = "; public static string q16_answer = "a*1/a";
-        public static string question_17 = "a^m+n = "; public static string q17_answer = "a^m*a^n";
-        public static string question_18 = "a^m*n = "; public static string q18_answer = "(a^m)^n";
-        public static string question_19 = "a^n*b^n = "; public static string q19_answer = "(ab)^n";
-        public static string question_20 = "a^n/b^n = "; public static string q20_answer = "(a/b)^n";
-        public static string question_21 = "Version 1: a^m-n = "; public static string q21_answer = "a^m/a^n";
+        public static string question_12 = "(a+b)+c = ";            public static string q12_answer = "a+(b+c)";
+        public static string question_13 = "b+a = ";                public static string q13_answer = "a+b";
+        public static string question_14 = "(a*b)*c = ";            public static string q14_answer = "a*(b*c)";
+        public static string question_15 = "(a*b)+(a*c) = ";        public static string q15_answer = "a*(b+c)";
+        public static string question_16 = "1 = ";                  public static string q16_answer = "a*1/a";
+        public static string question_17 = "a^m+n = ";              public static string q17_answer = "a^m*a^n";
+        public static string question_18 = "a^m*n = ";              public static string q18_answer = "(a^m)^n";
+        public static string question_19 = "a^n*b^n = ";            public static string q19_answer = "(ab)^n";
+        public static string question_20 = "a^n/b^n = ";            public static string q20_answer = "(a/b)^n";
+        public static string question_21 = "Version 1: a^m-n = ";   public static string q21_answer = "a^m/a^n";
         public static string question_22 = "Version 2: 1/a^n-m = "; public static string q22_answer = "a^m/a^n";
 
         public static void AlgebriacAxiomQuestions()

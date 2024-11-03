@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("infinitePractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21fec31e2df8b46378133bc746283bdac5a5ea5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("infinitePractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("infinitePractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

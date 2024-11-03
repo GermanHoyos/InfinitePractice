@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hoyos\\Desktop\\m_c_t\\A_SELF_Infinite_Planner\\infinitePractice\\infinitePractice.csproj": {}
+    "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\infinitePractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hoyos\\Desktop\\m_c_t\\A_SELF_Infinite_Planner\\infinitePractice\\infinitePractice.csproj": {
+    "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\infinitePractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hoyos\\Desktop\\m_c_t\\A_SELF_Infinite_Planner\\infinitePractice\\infinitePractice.csproj",
+        "projectUniqueName": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\infinitePractice.csproj",
         "projectName": "infinitePractice",
-        "projectPath": "C:\\Users\\Hoyos\\Desktop\\m_c_t\\A_SELF_Infinite_Planner\\infinitePractice\\infinitePractice.csproj",
+        "projectPath": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\infinitePractice.csproj",
         "packagesPath": "C:\\Users\\Hoyos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hoyos\\Desktop\\m_c_t\\A_SELF_Infinite_Planner\\infinitePractice\\obj\\",
+        "outputPath": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -70,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

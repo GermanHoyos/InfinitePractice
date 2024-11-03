@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TfrSW3CSQKAUKybmZwczvliUxA7aTT6TUzj+TzvF9dr6fbTdG2iHd/l4U+PseRaHeuXHYLU44inzX7WpkG45SQ==",
+  "dgSpecHash": "RJ5AsaAwql4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hoyos\\Desktop\\m_c_t\\A_SELF_Infinite_Planner\\infinitePractice\\infinitePractice.csproj",
+  "projectFilePath": "C:\\Users\\Hoyos\\OneDrive\\Desktop\\Math CSharp Proj\\infinitePractice\\infinitePractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoyos\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
     "C:\\Users\\Hoyos\\.nuget\\packages\\fractions\\7.2.1\\fractions.7.2.1.nupkg.sha512",
