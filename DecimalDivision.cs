@@ -8,7 +8,7 @@ namespace infinitePractice
 {
     internal class DecimalDivision
     {
-        public static int questionCount = 14;
+        public static int questionCount = 10;
 
         public static void DecimalDivisionQuestions()
         {

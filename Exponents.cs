@@ -8,7 +8,8 @@ namespace infinitePractice
 {
     internal class Exponents
     {
-        public static int questionCount = 20;
+        public static int questionCount = 14;
+        public static int decrement = 15;
 
         //String questions
         public static string question_1 = "  n   m    \n" +
@@ -119,21 +120,88 @@ namespace infinitePractice
                                            " a  =       \n" +
                                            "            \n" ;
 
-        public static string q10_answer =  "       n           1      \n" +
-                                           " /  1\\            -      \n" +
-                                           " |  - |  ==   / n\\m      \n" +
-                                           " |  m |       |a |        \n" +
-                                           " \\a  /       \\  /       \n" ;
+        public static string q10_answer =  "                       1       \n" +
+                                           "   / 1 \\n              -      \n" +
+                                           "  |  -  |  ==    /  n \\m      \n" +
+                                           "  |  m  |       |  a   |       \n" +
+                                           "   \\a  /         \\    /      \n" ;
+
+        // RADICALS --------------------------------------------------------------------------------------
+
+
+        public static string question_11 = "      __               \n" +
+                                           "     /                 \n" +
+                                           "   \\/ ab  =           \n" +
+                                           "                       \n" +
+                                           "                       \n" ;
+
+        public static string q11_answer =  "      __     __       \n" +
+                                           "     /      /         \n" +
+                                           "   \\/ a * \\/ b       \n" +
+                                           "                       \n" +
+                                           "                       \n" ;
+
+        public static string question_12 = "                      \n" +
+                                           "       __ 2          \n" +
+                                           "    (\\/a )  =        \n" +
+                                           "                      \n" +
+                                           "                      \n" ;
+
+        public static string q12_answer =  "                      \n" +
+                                           "                      \n" +
+                                           "     a                \n" +
+                                           "                      \n" +
+                                           "                      \n" ;
+
+        public static string question_13 = "     n                \n" +
+                                           "    x  = a =          \n" +
+                                           "                      \n" +
+                                           "                      \n" +
+                                           "                      \n" ;
+
+        public static string q13_answer  = "        __           \n" +
+                                           "     n /             \n" +
+                                           "     \\/  a           \n" +
+                                           "                      \n" +
+                                           "                      \n" ;
+
+        public static string question_14 = "    1                  \n" +
+                                           "    -                  \n" +
+                                           "    n                  \n" +
+                                           "   a                   \n" +
+                                           "                       \n" ;
+
+        public static string q14_answer  = "      __             \n" +
+                                           "   n /               \n" +
+                                           "   \\/  a             \n" +
+                                           "                      \n" +
+                                           "                      \n" ;
+
+        public static string question_15 = "   m                   \n" +
+                                           "   -                   \n" +
+                                           "   n                   \n" +
+                                           "  a                    \n" +
+                                           "                       \n" ;
+
+        public static string q15_answer  = "                               \n" +
+                                           "     ___          /    ___ \\m       \n" +
+                                           "  n / m          |  n /     |      \n" +
+                                           "  \\/ a  =        |  \\/ a    |      \n" +
+                                           "                  \\        /       \n" ;
+
 
         public static void ExponentQuestions() 
         {
+
+            
+
             for (int i = 0; i < questionCount; i++) 
             {
                 Console.Clear();
                 Random randNum = new Random();
                 int randomValue = randNum.Next(1, 10); // Upper bound is exclusive, so 10 gives 1-9
 
-                switch (randomValue) 
+                switch (decrement) 
                 {
                     case 1:
                         Console.WriteLine("___________________");
@@ -215,7 +283,48 @@ namespace infinitePractice
                         Console.WriteLine("___________________");
                         Console.ReadLine();
                         break;
-                }                
+                    case 11:
+                        Console.WriteLine("___________________");
+                        Console.WriteLine(question_11);
+                        Console.ReadLine();
+                        Console.Write(q11_answer);
+                        Console.WriteLine("___________________");
+                        Console.ReadLine();
+                        break;
+                    case 12:
+                        Console.WriteLine("___________________");
+                        Console.WriteLine(question_12);
+                        Console.ReadLine();
+                        Console.Write(q12_answer);
+                        Console.WriteLine("___________________");
+                        Console.ReadLine();
+                        break;
+                    case 13:
+                        Console.WriteLine("___________________");
+                        Console.WriteLine(question_13);
+                        Console.ReadLine();
+                        Console.Write(q13_answer);
+                        Console.WriteLine("___________________");
+                        Console.ReadLine();
+                        break;
+                    case 14:
+                        Console.WriteLine("___________________");
+                        Console.WriteLine(question_14);
+                        Console.ReadLine();
+                        Console.Write(q14_answer);
+                        Console.WriteLine("___________________");
+                        Console.ReadLine();
+                        break;
+                    case 15:
+                        Console.WriteLine("___________________");
+                        Console.WriteLine(question_15);
+                        Console.ReadLine();
+                        Console.Write(q15_answer);
+                        Console.WriteLine("___________________");
+                        Console.ReadLine();
+                        break;
+                }
+                decrement--;
             }
             return;
         }

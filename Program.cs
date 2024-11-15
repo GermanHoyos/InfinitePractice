@@ -28,7 +28,7 @@ string trainingChoices()
     " Various Concepts in one type of problem:\n" + 
     " 15) Division or Mulitplication of negative or positive decimal numbers\n" +
     " WIP Division or Multiplication of negative or positive fractions\n" +
-    " 16) Exponents " 
+    " 16) Exponents / Radicals " 
     );
 
     string input = Console.ReadLine();
